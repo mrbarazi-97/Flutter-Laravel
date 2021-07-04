@@ -29,9 +29,7 @@ void main() {
                 icon: Icon(
                   Icons.person,
                   color: Colors.purpleAccent,
-                  la
                 ),
-                
                 label: 'Account'),
           ],
           selectedLabelStyle: TextStyle(fontSize: 22, color: Colors.red),
