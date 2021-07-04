@@ -7,7 +7,7 @@ class Home extends StatelessWidget {
     // TODO: implement build
     return Center(
       child: Text(
-        "Ya Allah",
+        "Allah",
         textDirection: TextDirection.ltr,
       ),
     );
